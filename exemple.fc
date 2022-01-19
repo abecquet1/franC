@@ -1,0 +1,9 @@
+#inclure <esflux>
+
+utiliser espacenom std;
+
+ent principale()
+{
+    chors << "Bonjour le monde !" << finl;
+    renvoyer 0;
+}
