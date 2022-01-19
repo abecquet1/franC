@@ -6,7 +6,7 @@ traduction = {
     'ent':'int',
     'principale':'main',
     'chors':'cout',
-    'cin':'cdans',
+    'cdans':'cin',
     'finl':'endl',
     'renvoyer':'return',
     }
